@@ -1,6 +1,5 @@
 # Zambian infant studies data
-
-Repository holding data for the Zambian infant studies (ZIS) analyzed by the Johnson Lab.
+Repository holding data for the Zambian infant studies (ZIS) analyzed by the Johnson Lab. All data files are labeled by study and include metadata and raw counts data in the form of a Summarized Experiment object nested within a Multi-Assay Experiment object. Please talk to Brie if you need help properly extracting the data. You will also need to perform additional manipulation to transform the data to genus-level or log CPM.
 
 ## HIV-exposed (HIV-E) 
 Odom-Mabey AR, Gill CJ, Pieciak R et al. Characterization of longitudinal nasopharyngeal microbiome patterns in maternally HIV-exposed Zambian infants [version 1; peer review: 1 approved with reservations]. Gates Open Res 2022, 6:143 (https://doi.org/10.12688/gatesopenres.14041.1)
@@ -8,7 +7,7 @@ Odom-Mabey AR, Gill CJ, Pieciak R et al. Characterization of longitudinal nasoph
 ## Fatal acute febrile illness (FAFI)
 Note: This is sometimes referred to as the sepsis study.
 
-Unpublished; talk to Brie for PPT of results
+Unpublished; Lab meeting powerpoint on study here: https://app.box.com/s/3xgbiebmi5adjy3axp9n7bpowbq0fgpz
 
 ## Lower respiratory tract infections
 Lapidot R, Faits T, Ismail A et al. Nasopharyngeal Dysbiosis Precedes the Development of Lower Respiratory Tract Infections in Young Infants, a Longitudinal Infant Cohort Study [version 1; peer review: 1 not approved]. Gates Open Res 2022, 6:48 (https://doi.org/10.12688/gatesopenres.13561.1)
