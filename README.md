@@ -2,7 +2,7 @@
 
 Repository holding data for the Zambian infant studies (ZIS) analyzed by the Johnson Lab.
 
-## HIV-E
+## HIV-exposed (HIV-E) 
 Odom-Mabey AR, Gill CJ, Pieciak R et al. Characterization of longitudinal nasopharyngeal microbiome patterns in maternally HIV-exposed Zambian infants [version 1; peer review: 1 approved with reservations]. Gates Open Res 2022, 6:143 (https://doi.org/10.12688/gatesopenres.14041.1)
 
 ## Fatal acute febrile illness (FAFI)
